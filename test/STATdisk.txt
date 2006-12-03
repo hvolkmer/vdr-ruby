@@ -1,0 +1,9 @@
+STAT disk
+250 70228MB 18040MB 74%
+
+
+220 localhost.localdomain SVDRP VideoDiskRecorder 1.4.4; Tue Dec 26 20:01:24 2006
+250 70228MB 34458MB 50%
+221 localhost.localdomain closing connection
+220
+

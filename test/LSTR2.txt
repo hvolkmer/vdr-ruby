@@ -1,0 +1,10 @@
+LSTR 1
+215-C S19.2E-1-1101-28106
+215-T Der Fahnder
+215-S Girlfriends
+215-D Wells wird von der jungen Streunerin Manuela beklaut.
+215-X 1 01 deu 4:3
+215-X 2 03 deu stereo
+215-X 2 05 deu Dolby
+215 End of recording information
+quit

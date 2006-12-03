@@ -1,0 +1,58 @@
+220 localhost.localdomain SVDRP VideoDiskRecorder 1.3.37; Sun Dec  3 13:53:22 2006
+HITK
+214-Valid <key> names for the HITK command:
+214-    Up
+214-    Down
+214-    Menu
+214-    Ok
+214-    Back
+214-    Left
+214-    Right
+214-    Red
+214-    Green
+214-    Yellow
+214-    Blue
+214-    0
+214-    1
+214-    2
+214-    3
+214-    4
+214-    5
+214-    6
+214-    7
+214-    8
+214-    9
+214-    Play
+214-    Pause
+214-    Stop
+214-    Record
+214-    FastFwd
+214-    FastRew
+214-    Power
+214-    Channel+
+214-    Channel-
+214-    Volume+
+214-    Volume-
+214-    Mute
+214-    Audio
+214-    Schedule
+214-    Channels
+214-    Timers
+214-    Recordings
+214-    Setup
+214-    Commands
+214-    User1
+214-    User2
+214-    User3
+214-    User4
+214-    User5
+214-    User6
+214-    User7
+214-    User8
+214-    User9
+214 End of key list
+HITK Ok
+250 Key "Ok" accepted
+quit
+221 localhost.localdomain closing connection
+

@@ -1,0 +1,3 @@
+MESG Hallo
+250 Message queued
+quit

@@ -1,0 +1,58 @@
+VDR::
+
+class VDR::VDR
+
+	# Actions
+	channel+
+	channel-
+	channel
+	
+	press_key
+	
+	
+	# Config / Control
+	# Channels
+	channels # channel iterator
+	channels << # neuen kanal erstellen
+	
+	
+	
+	
+	screenshot(filename, quality, heigt, width)
+	
+	
+	next_timer_date # NEXT
+	
+	timers # timer iterator / array
+	timers<<  # timer hinzufügen
+
+	plugin_command # Magic to discover options => Plugin Objekt
+	
+	# EPG Data
+	clear_epg
+	add_epg(epgdata)
+	scan
+	
+end
+
+class Timer
+
+	attr_accessor :active, :channel, :start_date, :end_date, :priority, :title
+
+end
+
+class Channel
+	attr_accessor :name, :frequency, :parameter, :source, :srate, :vpid, :apid, :tpid, :ca, :sid, :nid, :tid, :rid
+
+	delete!
+	
+end
+
+class Recording
+	play(begin) # PLAY
+	delete!
+end
+
+class EpgData
+
+end

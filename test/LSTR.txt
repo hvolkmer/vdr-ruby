@@ -1,0 +1,20 @@
+220 localhost.localdomain SVDRP VideoDiskRecorder 1.3.37; Sun Dec  3 13:34:43 2006
+250-1 27.11.06 20:15* Der Fahnder
+250-2 25.11.06 00:00* Commissario Laurenti - Gib jedem seinen eigenen Tod
+250-3 01.12.06 21:15* SOKO Leipzig
+250-4 17.11.06 21:15* SOKO Leipzig
+250-5 13.09.06 21:00* Dresden
+250-6 12.11.06 22:00* Kommissar Beck
+250-7 26.11.06 22:00* Kommissar Beck
+250-8 19.11.06 22:30* Kommissar Beck
+250-9 27.09.06 21:00* Madrid
+250-10 28.12.05 21:50  ABBA - Die 20 erfolgreichsten Songs
+250-11 24.11.06 22:00* Nachtcafé
+250-12 02.12.06 08:50* Nachtcafé
+250-13 18.11.06 20:15* Unter Verdacht
+250-14 27.11.06 18:00* SOKO 5113
+250-15 01.12.06 18:00* SOKO Kitzbühel
+250-16 24.11.06 20:15* Stolberg
+250-17 01.12.06 20:15* Stolberg
+250 18 23.11.06 20:15* Das schönste Geschenk meines Lebens
+221 localhost.localdomain closing connection
