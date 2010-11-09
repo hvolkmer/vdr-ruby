@@ -9,8 +9,6 @@ task :test do
     t.test_files = FileList['test/*_test.rb']
     t.verbose = true
   end
-
-
 end
 
 task :lines do
@@ -26,10 +24,10 @@ task :lines do
       codelines += 1
     end
     puts "L: #{sprintf("%4d", lines)}, LOC #{sprintf("%4d", codelines)} | #{file_name}"
-    
+
     total_lines     += lines
     total_codelines += codelines
-    
+
     lines, codelines = 0, 0
   end
 
